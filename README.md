@@ -70,4 +70,4 @@ This is a portfolio summary. The full source code, documentation, and MVP are pr
 
 ---
 
-[Imran Nogueira](https://github.com/imrannnn30) · MMXXVI
+[Imran Nogueira](https://github.com/imrannnn30)
